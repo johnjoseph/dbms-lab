@@ -1,0 +1,38 @@
+@font-face
+{
+	font-family:'helvetica';
+	src:'fonts/helvetica.woff';
+}
+
+*
+{
+	font-family:'helvetica';
+}
+
+body
+{
+	color:#333;
+	background-color:#01355c;
+}
+
+.left
+{
+	width:100px;
+	float:left;
+	clear:both;
+}
+
+.right
+{
+	float:left;
+}
+
+#block
+{
+	height:100px;
+	width:300px;
+	margin:auto;
+	padding:30px;
+	margin-top:200px;
+	background-color:#ffffff;
+}
